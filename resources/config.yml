@@ -1,0 +1,64 @@
+#Plugin By CallumRawlinson#
+
+#Manage Main Form#
+Title: "§l§3HELPERUI"
+Content: "§bChoose options"
+
+#Manage Button 1 Form#
+Title-Info: "§l§3INFO SERVER"
+Content-Info: "Edit on config.yml"
+Button-Info: "§cBack"
+
+#Manage Button 2 Form#
+Title-Rules: "§l§3RULES"
+Content-Rules: "Edit on config.yml"
+Button-Rules: "§cBack"
+
+#Manage Button 3 Form#
+Title-Rank: "§l§3RANK LIST"
+Content-Rank: "§bChoose rank"
+Rank1-Category: "§dRANK 1"
+Rank2-Category: "§dRANK 2"
+Rank3-Category: "§dRANK 3"
+Rank4-Category: "§dRANK 4"
+Rank5-Category: "§dRANK 5"
+Button-Category: "§cBack"
+
+#Manage Rank1 Form#
+Title-Rank1: "§l§3RANK LIST"
+Content-Rank1: "Edit on config.yml"
+Back-Rank1: "§cBack"
+
+#Manage Rank2 Form#
+Title-Rank2: "§l§3RANK LIST"
+Content-Rank2: "Edit on config.yml"
+Back-Rank2: "§cBack"
+
+#Manage Rank3 Form#
+Title-Rank3: "§l§3RANK LIST"
+Content-Rank3: "Edit on config.yml"
+Back-Rank3: "§cBack"
+
+#Manage Rank4 Form#
+title-Rank4: "§l§3RANK LIST"
+Content-Rank4: "Edit on config.yml"
+Back-Rank4: "§cBack"
+
+#Manage Rank5 Form#
+Title-Rank5: "§l§3RANK LIST"
+Content-Rank5: "Edit on config.yml"
+Back-Rank5: "§cBack"
+
+#Manage Button 4 Form#
+Title-Staff: "§l§3STAFF LIST"
+Content-Staff: "Edit on config.yml"
+Button-Staff: "§cBack"
+
+#Manage Button#
+Button1-Category: "§dINFO SERVER\n§fTap to open"
+Button2-Category: "§dRULES\n§fTap to open"
+Button3-Category: "§dRANK INFO\n§fTap to open"
+Button4-Category: "§dSTAFF LIST\n§fTap to open"
+
+#Exit Button#
+Exit-Category: "§cClose"
