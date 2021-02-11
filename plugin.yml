@@ -1,0 +1,9 @@
+name: HelperUI
+author: CallumRawlinson
+main: callum\Main
+api: 3.0.0
+version: 1.0.0
+
+commands:
+ helperui:
+  description: "HelperUI Command"
